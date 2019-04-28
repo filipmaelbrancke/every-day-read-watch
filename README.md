@@ -6,6 +6,28 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 28-04-2019
+- Subtractive synths explained.   
+  https://www.residentadvisor.net/features/1351
+- Concurrency on the JVM is complicated.   
+  https://medium.com/@wiemzin/concurrency-is-complicated-e44ddb5aa9ef
+- Simple design of Kotlin Flow.   
+  https://medium.com/@elizarov/simple-design-of-kotlin-flow-4725e7398c4c
+- Watermarks, Tables, Event Time, and the Dataflow Model.   
+  https://www.confluent.io/blog/watermarks-tables-event-time-dataflow-model/
+- Kafka Streams’ Take on Watermarks and Triggers.   
+  https://www.confluent.io/blog/kafka-streams-take-on-watermarks-and-triggers
+- 7 Commandments for Event-Driven Architecture.   
+  https://rjzaworski.com/2019/03/7-commandments-for-event-driven-architecture
+
+# 26-04-2019
+
+- Real Production Use: Reactive Design For The Manufacturing Industry by Roland Kuhn.   
+  https://www.youtube.com/watch?v=0jtnfh0lKCU&t=2s
+- Event Sourcing by Avi Levi.   
+  https://www.youtube.com/watch?v=9AGfpjhmuOw&t=2s
+
+
 # 24-04-2019
 
 - [Kafka Streams In Action](https://www.manning.com/books/kafka-streams-in-action): Chapter 5 - The KTable API.   
@@ -99,3 +121,11 @@ A software renaissance of some sort is taking place with regard to the authoring
 # 10-04-2019
 - Introduction to Clock Sync in Finance and Beyond.   
   https://www.fsmlabs.com/news/2017/11/01/introduction-to-clock-sync-in-finance-and-beyond.html
+
+# 9-04-2019
+Counter-narrative to the often quoted notion that Bitcoin would be an unfolding environmental disaster. The following articles provide a fact-based examination of the claim that Bitcoin consumes more energy than a number of countries.   
+
+- The reports of bitcoin environmental damage are garbage.   
+  https://medium.com/coinmonks/the-reports-of-bitcoin-environmental-damage-are-garbage-5a93d32c2d7
+- Will Bitcoin burn the planet to ashes? Not so fast.    
+  https://vellum.capital/2018/11/08/will-bitcoin-burn-the-planet-to-ashes-not-so-fast/
