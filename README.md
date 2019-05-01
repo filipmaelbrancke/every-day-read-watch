@@ -6,8 +6,30 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 1-05-2019
+- Kafka-Streams: a road to autoscaling via Kubernetes.   
+  https://medium.com/xebia-france/kafka-streams-a-road-to-autoscaling-via-kubernetes-417f2597439
+
+# 30-04-2019
+- Diving into Exactly Once Semantics with Guozhang Wang.   
+  A walk through the implementation of transactional messaging in Kafka.     
+  https://www.buzzsprout.com/episodes/1046878-diving-into-exactly-once-semantics-with-guozhang-wang
+- Enabling Exactly Once in Kafka Streams.   
+  https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/
+- Exactly once Semantics are Possible: Here’s How Kafka Does it.   
+  https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+- Transactions in Apache Kafka.   
+  https://www.confluent.io/blog/transactions-apache-kafka/
+
+# 29-04-2019
+- Ben Stopford on Microservices and Event Streaming.   
+  Microservices are pretty ubiquitous these days. Really “SOA done right,” they reimagine the services pattern in the context of the world we live in today, nearly two decades since the first big service-oriented systems hit production. But what have we learned in this time?    
+  Ben Stopford explore the event-driven paradigm and how it relates to the microservice architectures we build today. Ben dives deep into coupling, evolution and challenges of our increasingly data-oriented culture. He also talks about the future, where data are events and events are data, and touches on real-time architectures that retain the decoupling properties needed to be pluggable, and to evolve.    
+  https://www.buzzsprout.com/186154/1029683-ben-stopford-on-microservices-and-event-streaming
+
 # 28-04-2019
 - Subtractive synths explained.   
+  Oscillators, Filters, Amplifiers, LFOs & Envelopes.   
   https://www.residentadvisor.net/features/1351
 - Concurrency on the JVM is complicated.   
   https://medium.com/@wiemzin/concurrency-is-complicated-e44ddb5aa9ef
@@ -84,6 +106,19 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 # 14-04-2019
 A software renaissance of some sort is taking place with regard to the authoring of concurrent programs: tying task lifetime to lexical scopes and the stack in a deliberate way while providing sane error propagation and cancellation semantics. Reading into Kotlin coroutines & structured concurrency.    
 
+Structured concurrency:    
+
+- “Concurrency made easy”: coming soon to a programming language near you.   
+  https://medium.com/@belm0/concurrency-made-easy-d3fdb0382c58
+- Update on Structured Concurrency.   
+  http://250bpm.com/blog:137
+- Exceptions vs Structured Concurrency.   
+  https://matklad.github.io/2018/06/18/exceptions-in-structured-concurrency.html
+- Notes on structured concurrency, or: Go statement considered harmful.   
+  https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/    
+  
+Kotlin coroutines:    
+
 - Structured concurrency.   
   https://medium.com/@elizarov/structured-concurrency-722d765aa952
 - Blocking threads, suspending coroutines.   
@@ -92,14 +127,6 @@ A software renaissance of some sort is taking place with regard to the authoring
   https://medium.com/@elizarov/explicit-concurrency-67a8e8fd9b25
 - What is “concurrent” access to mutable state?    
   https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292
-- “Concurrency made easy”: coming soon to a programming language near you.   
-  https://medium.com/@belm0/concurrency-made-easy-d3fdb0382c58
-- Update on Structured Concurrency.   
-  http://250bpm.com/blog:137
-- Exceptions vs Structured Concurrency.   
-  https://matklad.github.io/2018/06/18/exceptions-in-structured-concurrency.html
-- Notes on structured concurrency, or: Go statement considered harmful.   
-  https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
 - The reason to avoid GlobalScope.   
   https://medium.com/@elizarov/the-reason-to-avoid-globalscope-835337445abc
 - Coroutine Context and Scope.   
@@ -129,3 +156,7 @@ Counter-narrative to the often quoted notion that Bitcoin would be an unfolding 
   https://medium.com/coinmonks/the-reports-of-bitcoin-environmental-damage-are-garbage-5a93d32c2d7
 - Will Bitcoin burn the planet to ashes? Not so fast.    
   https://vellum.capital/2018/11/08/will-bitcoin-burn-the-planet-to-ashes-not-so-fast/
+
+# 8-04-2019
+- Technical Debt Is Like Tetris.   
+  https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700 & https://news.ycombinator.com/item?id=19353352
