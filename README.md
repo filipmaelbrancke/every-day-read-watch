@@ -6,6 +6,62 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 16-05-2019
+- Kafka Replication: The case for MirrorMaker 2.0.   
+  https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/
+- Reactive Transactions with Spring.   
+  https://spring.io/blog/2019/05/16/reactive-transactions-with-spring
+
+# 14-05-2019
+- Introducing a Cloud-Native Experience for Apache Kafka in Confluent Cloud.   
+  https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud
+
+# 13-05-2019
+- Control as Liability.   
+  Decentralization gets a surprising boost from the regulatory environment.
+  https://vitalik.ca/general/2019/05/09/control_as_liability.html
+
+# 12-05-2019
+- Designing events first microservices for a cloud native world by Jonas Bonér - Lightbend.   
+  https://www.youtube.com/watch?v=qFnSWDoK69I
+
+# 9-05-2019
+- Stateful Serverless Event Sourcing.   
+  https://www.youtube.com/watch?v=AOY8yRC6dVY
+
+# 8-05-2019
+- Kafka transactions - the tricky bits.   
+  https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html
+- HTTP headers for the responsible developer.   
+  https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+
+# 7-05-2019
+- It’s Time for Streaming to Have a Maturity Model.   
+  https://www.buzzsprout.com/186154/996549-it-s-time-for-streaming-to-have-a-maturity-model-ft-nick-dearden
+
+# 6-05-2019
+- Functional Programming is on the rise.   
+  https://medium.com/@elizarov/functional-programing-is-on-the-rise-ebd5c705eaef
+
+# 4-05-2019
+- In a Serverless World, We Still Need State.   
+  https://www.infoq.com/news/2019/04/serverless-needs-state
+- Serverless Needs a Bolder, Stateful Vision.   
+  https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/
+- The Problem is Data: Gwen Shapira, Confluent, Serverless NYC 2018.   
+  https://www.youtube.com/watch?time_continue=66&v=J-9afazR2o0
+
+# 3-05-2019
+- Is there anybody out there? - Manuel Bernhardt.   
+  https://www.youtube.com/watch?v=VoF6211e3y8
+
+# 2-05-2019
+- Focus on Integration Tests Instead of Mock-Based Tests.  
+  [Test the behaviour, not the implementation](https://testing.googleblog.com/2013/08/testing-on-toilet-test-behavior-not.html).    
+  A mocked dependency is an implementation.    
+  Test the final output, not the intermediate one.     
+  https://phauer.com/2019/focus-integration-tests-mock-based-tests/
+
 # 1-05-2019
 - Kafka-Streams: a road to autoscaling via Kubernetes.   
   https://medium.com/xebia-france/kafka-streams-a-road-to-autoscaling-via-kubernetes-417f2597439
