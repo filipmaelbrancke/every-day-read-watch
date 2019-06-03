@@ -6,6 +6,87 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+
+
+# 03-06-2019
+- Execution context of Kotlin Flows.   
+  https://medium.com/@elizarov/execution-context-of-kotlin-flows-b8c151c9309b
+- How to set up a serious Kubernetes terminal.   
+  https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
+- Deduplication at Scale: Dedupe Ingested Events Data at Scale using [Bloom Filters](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff).   
+  https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9
+
+# 02-06-2019
+- Spring for Apache Kafka Deep Dive:    
+	- Spring for Apache Kafka Deep Dive – Part 1: Error Handling, Message Conversion and Transaction Support.   
+  	https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-1-error-handling-message-conversion-transaction-support
+	- Spring for Apache Kafka Deep Dive – Part 2: Apache Kafka and Spring Cloud Stream.   
+  	https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-2-apache-kafka-spring-cloud-stream
+	- Spring for Apache Kafka Deep Dive – Part 3: Apache Kafka and Spring Cloud Data Flow.   
+  	https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-3-apache-kafka-and-spring-cloud-data-flow
+- Spring Boot + Kafka: The New Enterprise Platform by James Watters, Pivotal (Kafka Summit 2019 Keynote).   
+  https://www.youtube.com/watch?v=9I3CDfHKfNY
+
+# 01-06-2019
+- The Coming Software Apocalypse.   
+  *“The software did exactly what it was told to do. The reason it failed is that it was told to do the wrong thing.“*.   
+  *“Software engineers don’t understand the problem they’re trying to solve, and don’t care to.”*
+  https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+- [Eve](http://witheve.com/): Checking what could have been if Eve would have had enough funding to complete the vision.   
+- How Eve unifies your entire programming stack.   
+  https://hackernoon.com/how-eve-unifies-your-entire-programming-stack-900ca80c58a7
+- When logic programming meets CQRS.   
+  https://hackernoon.com/when-logic-programming-meets-cqrs-1137ab2a5f86
+- Throwing off our scope chains.   
+  https://hackernoon.com/throwing-off-our-scope-chains-7567beb2d0b6
+- Smalltalk and protein programming.   
+  https://hackernoon.com/smalltalk-and-protein-programming-4da245ac93e2
+- The rock-solid foundation for Eve’s big vision.   
+  https://hackernoon.com/the-rock-solid-foundation-for-eves-big-vision-225b80b91e11
+- Why Eve will be perfect for realtime apps     
+  https://hackernoon.com/why-eve-will-be-perfect-for-realtime-apps-92b965b80ad
+
+# 30-05-2019
+- Online Event Processing: Achieving consistency where distributed transactions have failed.  
+  (Martin Kleppmann, Alastair R. Beresford, and Boerge Svingen).   
+  Different way of building systems... besides Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP), we should think about OLEP, which is taking transaction processing ideas and implementing them on top of event processing systems.    
+  Use event logs, rather than transactions, as the primary application programming model for data management. Traditional databases are still used, but their writes come from a log rather than directly from the application.    
+  https://queue.acm.org/detail.cfm?id=3321612
+
+# 29-05-2019
+- 17 Ways to Mess Up Self-Managed Schema Registry.   
+  https://www.confluent.io/blog/17-ways-to-mess-up-self-managed-schema-registry
+
+# 28-05-2019
+- What’s the proper Kubernetes health check for a Kafka Streams application?    
+  https://blog.softwaremill.com/whats-the-proper-kubernetes-health-check-for-a-kafka-streams-application-c9c00a112581
+
+# 27-05-2019
+- Eliminating Coroutine leaks in tests.   
+  https://proandroiddev.com/eliminating-coroutine-leaks-in-tests-3af825e7cde2
+
+# 26-05-2019
+- Martin Kleppmann: Is Kafka a Database? (Kafka Summit London 2019 Keynote)    
+  https://www.youtube.com/watch?v=BuE6JvQE_CY
+
+# 24-05-2019
+- H.264 is Magic.   
+  https://sidbala.com/h-264-is-magic/
+
+# 21-05-2019
+- Schemas, Contracts, and Compatibility.   
+  https://www.confluent.io/blog/schemas-contracts-compatibility
+
+# 20-05-2019
+- Performant Functional Programming to the max with ZIO.   
+  https://cloudmark.github.io/A-Journey-To-Zio/
+
+# 17-05-2019
+- Serverless Architectures.   
+  https://martinfowler.com/articles/serverless.html
+- Serverless Computing: One Step Forward, Two Steps Back.   
+  http://cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf
+
 # 16-05-2019
 - Kafka Replication: The case for MirrorMaker 2.0.   
   https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/
