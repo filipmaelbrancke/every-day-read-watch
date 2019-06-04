@@ -7,6 +7,20 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
 
+# 04-06-2019
+- Observations on Observability.   
+  https://blog.colinbreck.com/observations-on-observability/
+- Domain-Oriented Observability.   
+  https://martinfowler.com/articles/domain-oriented-observability.html
+- Kafka Usecase: Deploying Kafka Streams and KSQL with Gradle
+	- Part 1: Overview and Motivation.   
+  	https://www.confluent.io/blog/deploying-kafka-streams-and-ksql-with-gradle-part-1-overview-and-motivation
+	- Part 2: Managing KSQL Implementations.   
+  	https://www.confluent.io/blog/deploying-kafka-streams-and-ksql-with-gradle-part-2-managing-ksql-implementations
+- How KEEP-87 & Typeclasses will change the way we write Kotlin.   
+  https://quickbirdstudios.com/blog/keep-87-typeclasses-kotlin/
+- Immutable Conversations - Inside Arrow Fx & Arrow Optics.   
+  https://www.youtube.com/watch?v=4eZFUpLiX00
 
 # 03-06-2019
 - Execution context of Kotlin Flows.   
@@ -52,6 +66,8 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
   Different way of building systems... besides Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP), we should think about OLEP, which is taking transaction processing ideas and implementing them on top of event processing systems.    
   Use event logs, rather than transactions, as the primary application programming model for data management. Traditional databases are still used, but their writes come from a log rather than directly from the application.    
   https://queue.acm.org/detail.cfm?id=3321612
+- Publishing with Apache Kafka at The New York Times.   
+  https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/
 
 # 29-05-2019
 - 17 Ways to Mess Up Self-Managed Schema Registry.   
