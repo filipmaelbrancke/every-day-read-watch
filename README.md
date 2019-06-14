@@ -6,6 +6,53 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 13-06-2019
+
+- Distributed Locks are Dead; Long Live Distributed Locks!    
+  https://hazelcast.com/blog/long-live-distributed-locks/
+- Redlock: Distributed locks with Redis.   
+  https://redis.io/topics/distlock
+- Martin Kleppmann criticizes Redlock, and mentions fencing: How to do distributed locking.   
+  https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+- Antirez (Salvatore Sanfilippo - Redis Creator) disagrees with the analysis: Is Redlock safe? + insightful discussion @ HN.   
+  http://antirez.com/news/101 & https://news.ycombinator.com/item?id=11065933
+
+# 12-06-2019
+- Backoff and Retry Error-Handling for Akka Streams
+  https://blog.colinbreck.com/backoff-and-retry-error-handling-for-akka-streams/
+
+# 11-06-2019
+- Modern garbage collection.   
+  A look at what the newest generation of Java GCs can do.   
+  https://blog.plan99.net/modern-garbage-collection-part-2-1c88847abcfd
+
+# 10-06-2019
+- Abstracting Kotlin Sealed Classes.   
+  https://arturdryomov.online/posts/abstracting-kotlin-sealed-classes/
+  
+# 09-06-2019
+- Reactive Streams and Kotlin Flows.   
+  https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4
+- Reactive Streams 1.0.0 interview (°2015).   
+  https://medium.com/@viktorklang/reactive-streams-1-0-0-interview-faaca2c00bec
+
+# 08-06-2019
+- Schema Registry Made Simple by Confluent Cloud ft. Magesh Nandakumar.   
+  https://www.buzzsprout.com/186154/1220195-schema-registry-made-simple-by-confluent-cloud-ft-magesh-nandakumar
+
+# 07-06-2019
+- Testing Kafka Streams Applications with Viktor Gamov.   
+  Various approaches to testing Kafka Streams applications: KafkaEmbedded, TopologyTestDriver, Mocked Streams, Mockafka & using TestContainers.   
+  https://www.buzzsprout.com/186154/1158407-testing-kafka-streams-applications-with-viktor-gamov
+
+# 06-06-2019
+- A DIY Guide to Kafka Connectors.   
+  https://medium.com/enfuse-io/a-diy-guide-to-kafka-connectors-38ad7cd82e02
+
+# 05-06-2019
+- Log Compacted Topics in Apache Kafka.   
+  How does Kafka internally keep the state of compacted topics in the file system?    
+  https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
 # 04-06-2019
 - Observations on Observability.   
@@ -128,6 +175,7 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 # 8-05-2019
 - Kafka transactions - the tricky bits.   
+  Clear description of Kafka zombie fencing. 
   https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html
 - HTTP headers for the responsible developer.   
   https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
