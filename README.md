@@ -6,8 +6,33 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
-# 13-06-2019
+# 20-06-2019
+- Google Cloud networking in depth: Cloud CDN.   
+  https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-cdn
+- Cloudflare's Ethereum Gateway.   
+  https://blog.cloudflare.com/cloudflare-ethereum-gateway/
+- The fourth Industrial revolution emerges from AI and the Internet of Things.   
+  https://arstechnica.com/information-technology/2019/06/the-revolution-will-be-roboticized-how-ai-is-driving-industry-4-0/
 
+# 18-06-2019
+- Announcing Envoy Mobile.   
+  https://eng.lyft.com/announcing-envoy-mobile-5c2067d9ade0
+- CSV vs Parquet vs Avro: Choosing the Right Tool for the Right Job.   
+  https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8
+
+# 17-06-2019
+- Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.   
+  *Tech debt is the mind killer. Tech debt is the lack of quality. It slows us down. It makes us miserable. It breaks our flow and saps our will to live.*    
+  http://www.gigamonkeys.com/flowers/
+
+# 15-06-2019
+- Design Techniques for Building Streaming Data, Cloud-Native Applications: Managing Streaming And Queryable State In Spark, Akka Streams, Kafka Streams, And Flink.   
+  https://www.lightbend.com/blog/managing-streaming-and-queryable-state-in-spark-akka-streams-kafka-streams-flink
+- Making Direct Messages Reliable and Fast.   
+  Somewhat similar architecture to the solution [@mikeseghers]( https://twitter.com/mikeseghers ) and I were exploring at a previous job (https://speakerdeck.com/filipmaelbrancke/common-mobile-architecture?slide=39). Nowadays I think I would rather look into eventually-consistent databases, or GraphQL, with a client that optimistically updates a client-side cache. The article very much feels like describing the client component of an eventually-consistent data store, but without touching the nitty-gritty details of causal consistency, vector clocks, etc...     
+  https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f
+
+# 13-06-2019
 - Distributed Locks are Dead; Long Live Distributed Locks!    
   https://hazelcast.com/blog/long-live-distributed-locks/
 - Redlock: Distributed locks with Redis.   
@@ -16,9 +41,12 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
   https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
 - Antirez (Salvatore Sanfilippo - Redis Creator) disagrees with the analysis: Is Redlock safe? + insightful discussion @ HN.   
   http://antirez.com/news/101 & https://news.ycombinator.com/item?id=11065933
+- Redlock: unsafe at any time.   
+  tl;dr redlock is ok for advisory locks but not for guaranteeing mutual exclusion.   
+  https://medium.com/@talentdeficit/redlock-unsafe-at-any-time-40ceac109dbb
 
 # 12-06-2019
-- Backoff and Retry Error-Handling for Akka Streams
+- Backoff and Retry Error-Handling for Akka Streams.   
   https://blog.colinbreck.com/backoff-and-retry-error-handling-for-akka-streams/
 
 # 11-06-2019
