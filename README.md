@@ -6,6 +6,19 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 24-06-2019
+- Fast key-value stores: An idea whose time has come and gone.   
+  Reading this validates my interest in Akka even more: Akka provides an advanced system for stateful processes (communicating via message passing), that can seamlessly interoperate while running in a cluster, all with a strong focus on resiliency and fault tolerance.    
+  https://ai.google/research/pubs/pub48030
+- Startup idea checklist.   
+  https://www.defmacro.org/2019/03/26/startup-checklist.html
+- GraphQL Conf 2019 in a nutshell - Some Takeaways.   
+  https://time2hack.com/2019/06/graphql-conf-2019-in-a-nutshell-some-takeaways/
+
+# 23-06-2019
+- API Gateways are going through an identity crisis.   
+  https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7
+
 # 20-06-2019
 - Google Cloud networking in depth: Cloud CDN.   
   https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-cdn
