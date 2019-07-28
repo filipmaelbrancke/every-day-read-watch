@@ -6,6 +6,84 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 28-07-2019
+- Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger.   
+  https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger
+- Building Kafka Streams applications with Quarkus and Eclipse MicroProfile.   
+  https://quarkus.io/blog/kafka-streams-applications-with-quarkus-and-microprofile/
+
+# 27-07-2019
+- Cache me if you can: HTTP caching overview.   
+  https://blog.octo.com/en/cache-me-if-you-can-2/
+
+# 26-07-2019
+How To Serve Machine Learning Models With Dynamically Controlled Streams in Cloud-Native Applications.    
+https://www.lightbend.com/blog/serve-machine-learning-models-dynamically-controlled-streams    
+All of the modern stream processing frameworks and engines, including [Akka Streams](https://doc.akka.io/docs/akka/2.5/stream/?_ga=2.87837720.1080481679.1564347590-1164336498.1511962281), [Kafka Streams](https://kafka.apache.org/documentation/streams/), [Flink](https://flink.apache.org/), and [Spark](https://spark.apache.org/) (frameworks discussed further) can be used for implementing dynamically controlled streams. 
+The Lightbend Platform supports the integration with these various streaming engines.     
+Four examples implemented:    
+
+- How To Use Akka Streams For Dynamically Controlled Streams.   
+  https://www.lightbend.com/blog/use-akka-streams-dynamically-controlled-streams
+- How To Use Kafka Streams For Dynamically Controlled Streams.   
+  https://www.lightbend.com/blog/use-kafka-streams-dynamically-controlled-streams
+- How To Use Apache Flink For Dynamically Controlled Streams.   
+  https://www.lightbend.com/blog/use-apache-flink-dynamically-controlled-streams
+- How To Use Spark Streaming For Dynamically Controlled Streams.   
+  https://www.lightbend.com/blog/use-spark-streaming-dynamically-controlled-streams
+
+# 23-07-2019
+- Kafka productivity hacks.   
+  https://gist.github.com/MichaelDrogalis/08463ed82a4a04015eef03cb483cad26
+
+# 22-07-2019
+- Callbacks and Kotlin Flows.   
+  https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf
+- The future of AI is entertainment: How GANs may be combined to create the YouTube of tomorrow.   
+  https://blog.plan99.net/the-future-of-ai-is-entertainment-1841fbb400df
+
+# 17-07-2019
+- Autoscaling Kafka Streams applications with Kubernetes.   
+  https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0
+
+# 16-07-2019
+- Java frameworks performances on Cloud Run.   
+  https://medium.com/google-cloud/java-frameworks-performances-on-cloud-run-eb243fd84a5c
+
+# 15-07-2019
+- Exceptions in Kotlin Flows.   
+  https://medium.com/@elizarov/exceptions-in-kotlin-flows-b59643c940fb
+
+# 14-07-2019
+- "CRDTs Illustrated" by Arnout Engelen.   
+  https://www.youtube.com/watch?v=9xFfOhasiOE 
+- Why Kafka Connect? ft. Robin Moffatt.   
+  https://www.buzzsprout.com/186154/1265780-why-kafka-connect-ft-robin-moffatt
+- Deploying Confluent Platform, from Zero to Hero ft. Mitch Henderson.   
+  https://www.buzzsprout.com/186154/1292998-deploying-confluent-platform-from-zero-to-hero-ft-mitch-henderson
+- Kafka in Action with Dylan Scott.   
+  https://www.buzzsprout.com/186154/1384408-kafka-in-action-with-dylan-scott
+- Change Data Capture with Debezium ft. Gunnar Morling    
+  https://www.buzzsprout.com/186154/1365043-change-data-capture-with-debezium-ft-gunnar-morling
+
+# 03-07-2019
+- 7 Reasons We Choose Apache Pulsar Over Apache Kafka: comparison Kafka - Pulsar.   
+  https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/
+
+# 30-06-2019
+- The big interview with Martin Kleppmann: “Figuring out the future of distributed data systems”.   
+  https://medium.com/@hydraconference/the-big-interview-with-martin-kleppmann-figuring-out-the-future-of-distributed-data-systems-28a680d99ae6
+
+# 27-06-2019
+- Comparing Ethereum and the Libra blockchain.   
+  https://blog.softwaremill.com/comparing-ethereum-and-the-libra-blockchain-64bec7dd70c0
+
+# 26-06-2019
+- Microservices, Apache Kafka, and Domain-Driven Design.   
+  https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design
+- Application programming language.   
+  https://medium.com/@elizarov/application-programming-language-ff7f0063c16
+
 # 24-06-2019
 - Fast key-value stores: An idea whose time has come and gone.   
   Reading this validates my interest in Akka even more: Akka provides an advanced system for stateful processes (communicating via message passing), that can seamlessly interoperate while running in a cluster, all with a strong focus on resiliency and fault tolerance.    
