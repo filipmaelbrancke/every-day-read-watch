@@ -6,6 +6,92 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 25-08-2019
+- Software Architecture Guide.   
+  https://martinfowler.com/architecture/  & https://news.ycombinator.com/item?id=20786448
+- The End of Agile.   
+  https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/#d5488f220713
+- Why Clojure?    
+  https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html
+- YAML: probably not so great after all.   
+  https://arp242.net/yaml-config.html
+  
+# 24-08-2019
+- Correctness Anomalies Under Serializable Isolation.   
+  https://dbmsmusings.blogspot.com/2019/06/correctness-anomalies-under.html
+- Overview of Consistency Levels in Database Systems
+  https://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html
+- 10 Key Learnings in Rust after 30,000 Lines of Code.   
+  https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
+
+# 19-08-2019
+- The traits of serverless architecture.   
+  https://www.thoughtworks.com/insights/blog/traits-serverless-architecture
+- How we built a tool for validating big data workflows.   
+  https://engineering.klarna.com/how-we-built-a-tool-for-validating-big-data-workflows-170c196a4493
+
+# 18-08-2019
+- Yes silver bullet    
+  Revisiting & arguing against "No Silver Bullet – Essence and Accident in Software Engineering", a widely discussed paper on software engineering written by Turing Award winner Fred Brooks in 1986.    
+  "If the essential complexity is inherent, then you can't reduce the size of it. The only way to decrease the overall complexity is to reduce the accidental complexity.    
+  There's no magical solution that will solve all problems with software development, but that doesn't mean that improvements can't be had."    
+  Mark Seemann suggests to try to use better tools, from statically typed functional programming, to reduce the massive amounts of accidental complexity we still have.   
+  https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/
+
+# 16-08-2019
+- Kafka Connect Improvements in Apache Kafka 2.3.   
+  https://www.confluent.io/blog/kafka-connect-improvements-in-apache-kafka-2-3
+- Gathering WebRTC stats with gRPC.   
+  https://medium.com/@aconchillo/gathering-webrtc-stats-with-grpc-a76d89dc618a
+
+# 12-08-2019
+- Monads as a Programming Pattern.   
+  https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/
+
+# 9-08-2019
+- Working Backwards.   
+  https://www.allthingsdistributed.com/2006/11/working_backwards.html
+
+# 6-08-2019
+- Stack Overflow: How We Do App Caching.   
+  https://nickcraver.com/blog/2019/08/06/stack-overflow-how-we-do-app-caching/
+- Why I love Trunk Based Development (or pushing straight to master)    
+  https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0
+
+# 4-08-2019
+- KIP-500: Replace ZooKeeper with a Self-Managed Metadata Quorum.   
+  https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum & https://news.ycombinator.com/item?id=20595194
+
+# 3-08-2019
+- Mitigating serverless lock-in fears: Use hexagonal architecture/ports & adaptors to mitigate risk around cloud-based lock-in at the application level.    
+  https://www.thoughtworks.com/insights/blog/mitigating-serverless-lock-fears
+- How to Build an Insurance Company: How to build payments for an insurance startup    
+  https://www.moderntreasury.com/journal/how-to-build-an-insurance-company
+- Some items from Rachel Kroll's "reliability list":
+ 
+	- Rollbacks need to be possible.   
+	- New states need to be forward compatible
+	- More than one person should be able to ship
+	- Using weak or ambiguous formats for storage will get us in trouble
+	- There is far, far too much JSON
+	- Use some kind of actual RPC mechanism
+	   
+  https://rachelbythebay.com/w/2019/07/21/reliability/ & https://news.ycombinator.com/item?id=20522868
+
+# 2-08-2019
+- Building Shared State Microservices for Distributed Systems Using Kafka Streams.   
+  https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams
+
+# 1-08-2019
+- Exceptions and proxies and coroutines, oh my!    
+  https://jakewharton.com/exceptions-and-proxies-and-coroutines-oh-my/
+- How to run Flutter in the background?    
+  https://medium.com/vrt-digital-studio/flutter-workmanager-81e0cfbd6f6e
+
+# 30-07-2019
+- Fast and flexible observability with canonical log lines.   
+  https://stripe.com/gb/blog/canonical-log-lines
+
 # 28-07-2019
 - Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger.   
   https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger
@@ -433,7 +519,7 @@ Structured concurrency:
 - Update on Structured Concurrency.   
   http://250bpm.com/blog:137
 - Exceptions vs Structured Concurrency.   
-  https://matklad.github.io/2018/06/18/exceptions-in-structured-concurrency.html
+  https://matklad.github.io/2018/07/24/exceptions-in-structured-concurrency.html
 - Notes on structured concurrency, or: Go statement considered harmful.   
   https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/    
   
