@@ -6,6 +6,875 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 
 > Note: this is stuff I'm reading mostly off work of course. :see_no_evil: My current tech stack @ work is Kotlin, Java, Kafka, Spring, Reactor
 
+# 18-05-2020
+- How the Retail Industry is Implementing Machine Learning and Deep Learning.   
+  https://hackernoon.com/how-the-retail-industry-is-implementing-machine-learning-and-deep-learning-p86r32qh
+- Blazing fast Fibonacci with Kotlin and Arrow library.   
+  https://itnext.io/blazing-fast-fibonacci-with-kotlin-and-arrow-library-33c1d7eca0bb
+
+# 17-05-2020
+- State of Loom.    
+  http://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html
+- State of Loom: Part 2.   
+  http://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part2.html
+
+# 16-05-2020
+- Apache Kafka Needs No Keeper: Removing the Apache ZooKeeper Dependency.   
+  https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/
+- Single Message Transformations - The Swiss Army Knife of Kafka Connect.   
+  https://www.morling.dev/blog/single-message-transforms-swiss-army-knife-of-kafka-connect/
+
+# 15-05-2020
+- What Every Software Engineer Should Know about Apache Kafka: Events, Streams, Tables, Storage, Processing, And More.   
+  https://www.michael-noll.com/blog/2020/01/16/what-every-software-engineer-should-know-about-apache-kafka-fundamentals/
+  
+1. Streams and Tables in Apache Kafka: A Primer - https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/
+2. Streams and Tables in Apache Kafka: Topics, Partitions, and Storage Fundamentals - https://www.confluent.io/blog/kafka-streams-tables-part-2-topics-partitions-and-storage-fundamentals/
+3. Streams and Tables in Apache Kafka: Processing Fundamentals with Kafka Streams and ksqlDB - https://confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals/
+4. Streams and Tables in Apache Kafka: Elasticity, Fault Tolerance, and Other Advanced Concepts - https://www.confluent.io/blog/kafka-streams-tables-part-4-elasticity-fault-tolerance-advanced-concepts/
+
+# 14-05-2020
+- How to get the value out of the monad.   
+  https://blog.ploeh.dk/2019/02/04/how-to-get-the-value-out-of-the-monad/
+- Exploring the power of union types in Scala.   
+  https://humanreadablemag.com/issues/1/articles/unionizing-for-pleasure-and-profit
+  
+# 13-05-2020
+- Running Spring Boot apps as GraalVM Native Images.   
+  https://blog.codecentric.de/en/2020/05/spring-boot-graalvm/
+- Introduction to ksqlDB (LJC Virtual Meetup).   
+  https://noti.st/rmoff/WKykIL/introduction-to-ksqldb
+
+# 12-05-2020
+- From Zero to Lambda with Kotless.   
+  https://hadihariri.com/2020/05/12/from-zero-to-lamda-with-kotless/
+- Quantitative Easing, MMT, and Inflation/Deflation: A Primer.   
+  https://www.lynalden.com/quantitative-easing-mmt-inflation/
+
+# 11-05-2020
+- Deep Learning for Guitar Effect Emulation.   
+  https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/
+- Running a Technical Interview as a Developer.   
+  https://humanreadablemag.com/issues/1/articles/running-a-technical-interview-as-a-developer
+
+# 10-05-2020
+- The Forgotten History of OOP.   
+  https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+- The repeated deaths of OOP.   
+  http://loup-vaillant.fr/articles/deaths-of-oop
+- What's Wrong With Object-Oriented Programming?    
+  https://www.yegor256.com/2016/08/15/what-is-wrong-object-oriented-programming.html
+- The Rise and Fall of Object Oriented Programming.   
+  https://medium.com/machine-words/the-rise-and-fall-of-object-oriented-programming-d67078f970e2
+- Goodbye, Object Oriented Programming.   
+  https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+- Object-Oriented Programming is Bad.   
+  https://www.youtube.com/watch?v=QM1iUe6IofM
+
+# 9-05-2020
+- ZFS 101—Understanding ZFS storage and performance.   
+  https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/
+- Template-Oriented-Programming (TOP) to Ship Faster.   
+  https://overfullstack.github.io/posts/top-with-ad-hoc-polymorphism/.   
+  https://speakerdeck.com/gopalakshintala/template-oriented-programming-top-to-ship-faster
+- Fight Complexity with Functional Programming.   
+  https://overfullstack.github.io/posts/fight-complexity-with-fp/
+
+# 8-05-2020
+- Deleting data distributed throughout your microservices architecture.   
+  https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
+- Anthos in depth: Toward a service-based architecture.   
+  https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
+- Graceful shutdown in Kubernetes    
+  https://blog.laputa.io/graceful-shutdown-in-kubernetes-85f1c8d586da
+
+# 7-05-2020
+- How To Distribute Application State with Akka Cluster - Part 1: Getting Started.   
+  https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-1-getting-started
+- How To Distribute Application State with Akka Cluster - Part 2: Docker and Local Deploy.   
+  https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-2-docker-and-local-deploy
+- How To Distribute Application State with Akka Cluster - Part 3: Kubernetes & Monitoring.   
+  https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-3-kubernetes-monitoring
+- How To Distribute Application State with Akka Cluster - Part 4.   
+  https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-4-the-source-code
+
+# 6-05-2020
+- How Tesla uses open source to generate resilience in modern electric grids.   
+  https://www.techrepublic.com/article/how-tesla-uses-open-source-to-generate-resilience-in-modern-electric-grids/
+- When Parallel: Pull, Don't Push.   
+  https://nullprogram.com/blog/2020/04/30/
+- Why use Bluetooth for contact tracing?    
+  https://medium.com/indooratlas/why-use-bluetooth-for-contact-tracing-1585feb024dc
+
+# 5-05-2020
+- 3 reasons to adopt Event Sourcing.   
+  https://blog.softwaremill.com/3-reasons-to-adopt-event-sourcing-89cb855453f6
+- Oil's Collapse Is a Geopolitical Reset In Disguise.   
+  https://www.bloomberg.com/opinion/articles/2020-04-29/covid-19-oil-collapse-is-geopolitical-reset-in-disguise
+- Beyond Acceptance Testing: Domain-Driven Tests (LJC Virtual Meetup).   
+  https://www.youtube.com/watch?v=cUNVTXf6LxY
+
+# 2-05-2020
+- What Happens Next?   
+  COVID-19 Futures, Explained With Playable Simulations.   
+  https://ncase.me/covid-19/
+- Polymorphism and the Ternary Operator: Trickier Than You Think.   
+  https://humanreadablemag.com/issues/2/articles/polymorphism-and-the-ternary-operator
+- There's a Mathematician In Your Compiler.   
+  https://humanreadablemag.com/issues/2/articles/theres-a-mathematician-in-your-compiler
+
+# 1-05-2020
+- Property-based testing in Kotlin — Part 1.   
+  https://medium.com/default-to-open/property-based-testing-in-kotlin-part-1-56929927b8b8
+- Property-based testing in Kotlin — Part 2.   
+  https://medium.com/default-to-open/property-based-testing-in-kotlin-part-2-7705b0f13f3
+- Property-based testing in Kotlin — Part 3.    
+  https://medium.com/default-to-open/property-based-testing-in-kotlin-part-3-b502b4fa96f1
+- Property-based testing in Kotlin — Part 4.   
+  https://medium.com/default-to-open/property-based-testing-in-kotlin-part-4-e3a06eab3910
+
+# 30-04-2020
+- Crypto Fund II.   
+  https://a16z.com/2020/04/30/crypto-fund-ii/
+- A simple trick to improve type safety of your Scala code.   
+  https://blog.softwaremill.com/a-simple-trick-to-improve-type-safety-of-your-scala-code-ba80559ca092
+- The world is on lockdown. So where are all the carbon emissions coming from?    
+  https://grist.org/climate/the-world-is-on-lockdown-so-where-are-all-the-carbon-emissions-coming-from/
+
+# 25-04-2020
+- Agile’s early evangelists wouldn’t mind watching it die.   
+  https://builtin.com/software-engineering-perspectives/lean-agile-methodology-software-engineering
+- Erase your darlings. *Immutable infrastructure for mutable systems.*   
+  https://grahamc.com/blog/erase-your-darlings
+
+# 22-04-2020
+- Things I Wished More Developers Knew About Databases.   
+  https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+- Our data centers now work harder when the sun shines and wind blows.   
+  https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows
+- Testing sync at Dropbox.   
+  https://dropbox.tech/infrastructure/-testing-our-new-sync-engine
+
+# 20-04-2020
+- It's time to build.   
+  https://a16z.com/2020/04/18/its-time-to-build/
+- & a response: It’s Time to Act – a Response to Marc Andreessen.   
+  https://blog.coryfoy.com/2020/04/its-time-to-act-a-response-to-marc-andreessen/
+- Patterns for Managing Source Code Branches.   
+  https://martinfowler.com/articles/branching-patterns.html
+
+# 19-04-2020
+- How (not) to sign a JSON object.   
+  https://latacora.micro.blog/2019/07/24/how-not-to.html
+- A Decade of DDD, CQRS and Event Sourcing.   
+  https://tacta.io/a-decade-of-ddd-cqrs-and-event-sourcing/
+
+# 17-04-2020
+- Kubernetes anti-patterns: Let's do GitOps, not CIOps!    
+  https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
+- Fixing the Ethereum Fee Market (EIP-1559).   
+  https://medium.com/@eric.conner/fixing-the-ethereum-fee-market-eip-1559-9109f1c1814b
+- EIP 1559: The Final Puzzle-Piece to Ethereum’s Monetary Policy    
+  https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27
+- Ethereum Improvement Proposal 1559: A transaction fee market proposal    
+  https://github.com/ethereum/rig/blob/master/eip1559/eip1559.ipynb
+
+# 16-04-2020
+- A Brief History of ZIO.   
+  https://degoes.net/articles/zio-history
+- Real-Time Small Business Intelligence with ksqlDB.   
+  https://www.confluent.io/blog/real-time-business-intelligence-using-ksqldb/
+  
+# 13-04-2020
+- When Google and Apple get privacy right, is there still something wrong? *As the tech giants develop privacy-friendly technologies to help tackle the COVID-19 pandemic, we need to focus on the bigger picture of what’s at stake*    
+  https://medium.com/@TamarSharon/when-google-and-apple-get-privacy-right-is-there-still-something-wrong-a7be4166c295
+- The good and the bad of Apple-Google’s privacy-preserving Contact Tracing.   
+  https://medium.com/@legfranck/the-good-and-the-bad-of-apple-googles-privacy-preserving-contact-tracing-744806450be9
+- On contact tracing apps: The effectiveness of contact tracing is a quadratic function of adoption...    
+  https://twitter.com/zainy/status/1248482486524379137
+- Coronavirus: who will be winners and losers in new world order?    
+  https://amp.theguardian.com/world/2020/apr/11/coronavirus-who-will-be-winners-and-losers-in-new-world-order?__twitter_impression=true
+- Fighting the EU Copyright Directive in court    
+  https://pluralistic.net/2020/04/13/control-c/#control-c
+
+# 11-04-2020
+- The Death of Hype: What's Next for Scala.   
+  http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html
+- Why This is Unlike the Great Depression (Better & Worse).   
+  https://www.lynalden.com/great-depression/
+- The Global Dollar Short Squeeze.   
+  https://www.lynalden.com/global-dollar-short-squeeze/
+
+# 10-04-2020
+- Spring Graal current status: Spring Graal Native 0.6.0 released.   
+  https://spring.io/blog/2020/04/09/spring-graal-native-0-6-0-released
+- Preventing Fraud and Fighting Account Takeovers with Kafka Streams.   
+  https://www.confluent.io/blog/fraud-prevention-and-threat-detection-with-kafka-streams/
+
+# 9-04-2020
+- Spring Security: Authentication and Authorization In-Depth.   
+  https://www.marcobehler.com/guides/spring-security
+
+# 8-04-2020
+- Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO.   
+  https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/
+- Swift: Google's bet on differentiable programming.   
+  https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/
+- How to co-locate Kafka Partitions with Akka Cluster Shards.    
+  https://akka.io/blog/news/2020/03/18/akka-sharding-kafka-video    
+  https://www.youtube.com/watch?v=Ad2DyOn4dlY
+
+# 6-04-2020
+- Your configs suck? Try a real programming language.    
+  *Or yet another rant about YAML.*    
+  https://beepb00p.xyz/configs-suck.html
+
+# 5-04-2020
+- Docker Images : Part I - Reducing Image Size.   
+  https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
+- Docker Images : Part II - Details Specific To Different Languages.   
+  https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
+- Docker Images : Part III - Going Farther To Reduce Image Size.   
+  https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html
+
+# 3-04-2020
+- IO integration with kotlinx.coroutines.   
+  https://www.47deg.com/blog/arrow-kotlinx-integration/
+- About CRDTs.   
+  https://crdt.tech
+- Awesome CRDT   
+  https://github.com/alangibson/awesome-crdt
+- Explaining the Arrow Android sample.   
+  https://medium.com/default-to-open/explaining-the-arrow-android-sample-ee5c8bdfe88a
+
+# 1-04-2020
+- How Zoom’s web client avoids using WebRTC... and then started using WebRTC, but using the DataChannels for transferring media.   
+  https://webrtchacks.com/zoom-avoids-using-webrtc/
+- Real-Time Data Replication with ksqlDB.   
+  https://www.confluent.io/blog/real-time-data-replication-with-ksqldb/
+- Stable, Secure Apache Kafka as a Service – A Cloud Provider’s Tale.   
+  https://www.confluent.io/blog/cloud-kafka-as-a-service/
+
+# 31-03-2020
+- Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client.   
+  https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e
+- How Dark Sky Works.   
+  http://jackadam.github.io/2011/how-dark-sky-works/
+- A Glossary of Functional Programming.   
+  https://degoes.net/articles/fp-glossary
+
+# 30-03-2020
+- How Tailscale works.   
+  https://tailscale.com/blog/how-tailscale-works/
+
+# 28-03-2020
+- When programming became a chore.   
+  https://itnext.io/when-programming-became-a-chore-a0be2b9919c0
+- ksqlDB: The Missing Link Between Real-Time Data and Big Data Streaming.   
+  https://www.confluent.io/blog/ksqldb-real-time-data-and-big-data-streaming/
+
+# 25-03-2020
+- Building Confluent Cloud – Here’s What We’ve Learned.   
+  https://www.confluent.io/blog/what-we-learned-building-confluent-cloud/
+
+# 24-03-2020
+- Generating music in the waveform domain: a comprehensive overview of modelling music in the waveform domain & generative modelling paradigms.   
+  https://benanne.github.io/2020/03/24/audio-generation.html
+
+# 22-03-2020
+- Coronavirus: The Hammer and the Dance. What the Next 18 Months Can Look Like, if Leaders Buy Us Time    
+  https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56
+
+# 17-03-2020
+- Stateful Cloud Native Applications - Why Reactive Matters.   
+  https://www.lightbend.com/blog/stateful-cloud-native-applications-why-reactive-matters
+
+# 13-03-2020
+- How to Correctly Handle DB Schemas During Kubernetes Rollouts.   
+  https://www.weave.works/blog/how-to-correctly-handle-db-schemas-during-kubernetes-rollouts
+- Solving the Dependency Injection problem with ZIO: ZIO Environment type / ZLayers.
+  https://github.com/adamgfraser/solving-the-dependency-injection-problem-with-zio/blob/master/solving-the-dependency-injection-problem-with-zio.pdf
+
+# 12-03-2020
+- Ready for changes with Hexagonal Architecture.   
+  https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749?gi=c1aca67b94dc
+- FakerDAO: An Exploration Of MakerDAO’s Governance Incentives    
+  https://www.scopelift.co/blog/fakerdao
+
+# 10-03-2020
+- Busy Developers’ Guide to Java 9, 10, 11, 12, 13, and Above.   
+  https://4comprehension.com/busy-developers-guide-to-java-9-10-11-12-13-and-above/
+
+# 9-03-2020
+- Kotlin Functional Programming: Parallel Processing The Functional Way with Arrow Fx.   
+  https://mattmoore.io/blog/arrow-io-parallel
+- Data-Oriented Architecture. *Does not seem like a pattern to follow to me. Interesting counterpoints in HN discussion*.    
+  https://blog.eyas.sh/2020/03/data-oriented-architecture/ & https://news.ycombinator.com/item?id=22519974
+
+# 7-03-2020
+- Five Factor Testing.   
+  https://madeintandem.com/blog/five-factor-testing/
+- The Beautiful Machine: passive cooling.   
+  http://fabiensanglard.net/the_beautiful_machine/index.html
+- Is this the beginning of a global financial meltdown?    
+  https://www.marc.cn/2020/03/is-this-the-beginning-of-a-global-financial-meltdown.html
+- EARN IT is a direct attack on end-to-end encryption.   
+  https://blog.cryptographyengineering.com/2020/03/06/earn-it-is-an-attack-on-encryption/
+
+# 5-03-2020
+- CRDs Killed the Free Kubernetes Control Plane.   
+  https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/
+- Visualising Sociotechnical Architecture with DDD and Team Topologies.   
+  https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40
+
+# 3-03-2020
+- The Bumpy Road Code Smell: Measuring Code Complexity by its Shape and Distribution.   
+  *Cyclomatic Complexity is only marginally better than  counting lines of code. Can we improve on that?    
+  Identify patterns in code to come up with complexity measures that are better aligned with how our brain works.*   
+  https://empear.com/blog/bumpy-road-code-complexity-in-context/
+- Simple Systems Have Less Downtime.   
+  https://www.gkogan.co/blog/simple-systems/?r=0
+
+# 27-02-2020
+- KIP-557: Add emit on change support for Kafka Streams.   
+  *Discard idempotent updates in Kafka Streams*    
+  https://cwiki.apache.org/confluence/display/KAFKA/KIP-557%3A+Add+emit+on+change+support+for+Kafka+Streams
+- To Kill a Mockingtest. *Mocking code is a code smell: don’t use mocks or stubs in tests.*   
+  https://www.rea-group.com/blog/to-kill-a-mockingtest/
+
+# 24-02-2020
+- Math is your insurance policy    
+  https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/
+- Event Sourcing vs. Change Data Capture.   
+  *Event Sourcing, Command Query Responsibility Segregation (CQRS), Change Data Capture (CDC), and the Outbox Pattern.*   
+  https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/
+- Outbox Event Router goes Supersonic!    
+  Support for the Outbox pattern using Quarkus & Debezium.   
+  https://debezium.io/blog/2020/01/22/outbox-quarkus-extension/
+- Understanding Kubernetes limits and requests.   
+  https://sysdig.com/blog/kubernetes-limits-requests/
+
+# 23-02-2020
+- Kotlin Flow Assert Delight.   
+  https://proandroiddev.com/kotlin-flow-assert-ff45465c01c0
+- Operating Akka Clusters using KUDO.   
+  https://d2iq.com/blog/operating-akka-clusters-using-kudo
+
+# 18-02-2020
+- JWT is Awesome: Here's Why.   
+  https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/
+- Kafka Gotchas: the traps and pitfalls that you need to know
+  https://codeburst.io/kafka-gotchas-c627d4186aa0
+- Scala Futures Tips.   
+  https://medium.com/@wiemzin/scala-futures-tips-4a88c12a7a25
+- Towards more functional Play — Part 1.   
+  https://blog.softwaremill.com/towards-more-functional-play-part-1-a97bc4d92c76
+- Towards more functional Play — Part 2.   
+  https://blog.softwaremill.com/towards-more-functional-play-part-2-ac20d02bb2f5
+
+# 16-02-2020
+- Core Domain Patterns.   
+  https://medium.com/nick-tune-tech-strategy-blog/core-domain-patterns-941f89446af5
+- Why do so many developers get DRY wrong?    
+  https://changelog.com/posts/why-do-so-many-developers-get-dry-wrong
+- Sneak Peak: Confluent Schema Registry & Protobuf.   
+  https://www.matthowlett.com/2020-01-14-confluent-schema-registry-protobuf.html
+  
+# 12-02-2020
+- Using Dotty Union types with Akka Typed.   
+  https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/
+- Eviscerating the Test Automation Pyramid.   
+  https://cucumber.io/blog/bdd/eviscerating-the-test-automation-pyramid/
+
+# 11-02-2020
+- GraphQL in Scala with Caliban — Part 1: Turn a simple API into GraphQL.   
+  https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-1-8ceb6099c3c2
+- GraphQL in Scala with Caliban — Part 2: Query optimization.   
+  https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9
+- GraphQL in Scala with Caliban — Part 3: Customization.   
+  https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-3-8962a02d5d64
+
+# 10-02-2020
+- How Alpakka Uses Flow Control Optimizations In Apache Kafka 2.4.   
+  https://www.lightbend.com/blog/alpakka-kafka-flow-control-optimizations
+- Building a Super Easy Rate Limiter with ZIO.   
+  https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776
+- Securely Building Container Images on Kubernetes.   
+  https://kurtmadel.com/posts/native-kubernetes-continuous-delivery/building-container-images-with-kubernetes/
+- Lessons learnt using Coroutines Flow in the Android Dev Summit 2019 app.   
+  https://medium.com/androiddevelopers/lessons-learnt-using-coroutines-flow-4a6b285c0d06
+
+# 8-02-2020
+- Java 14 Feature Spotlight: Records.   
+  https://www.infoq.com/articles/java-14-feature-spotlight/
+- State of Valhalla: JVM inline types.   
+  http://cr.openjdk.java.net/~briangoetz/valhalla/sov/01-background.html
+
+# 7-02-2020
+- The Wall of Technical Debt.   
+  *A method for making technical debt visible and negotiable.*    
+  https://verraes.net/2020/01/wall-of-technical-debt/
+- High Performance Kafka Producers.   
+  https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html
+
+# 5-02-2020
+- Happy eyeballs algorithm using ZIO.   
+  https://blog.softwaremill.com/happy-eyeballs-algorithm-using-zio-120997ba5152
+- Why Discord is switching from Go to Rust.   
+  https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+- Error reporting in optics with Dotty.   
+  https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/
+
+# 2-02-2020
+- 2020 Predictions.   
+  http://adambien.blog/roller/abien/entry/2020_predictions
+- Bitcoin Obsoletes All Other Money.   
+  https://unchained-capital.com/blog/bitcoin-obsoletes-all-other-money/
+- Exploring an Apache Kafka to Pub/Sub migration: Major considerations.   
+  https://cloud.google.com/blog/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration
+- Guide RGPD du développeur. *Extensive GDPR documentation.*    
+  https://github.com/LINCnil/Guide-RGPD-du-developpeur
+
+# 30-01-2020
+- E2E test your Spring Boot 2.3.0 apps with Testcontainers.   
+  *In combination with Cloud Native Buildpacks to build layered Docker images.*   
+  https://bsideup.github.io/posts/spring_boot_in_container/
+- Streaming Machine Learning with Tiered Storage and Without a Data Lake.   
+  *Example using Kafka Tiered Storage to store real-time updateable ML models.*   
+  https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/
+- Scala 3 - and what it means to me.   
+  https://tech.ovoenergy.com/scala-3-and-what-it-means-to-me/
+
+# 28-01-2020
+- Will Project Loom obliterate Java Futures?    
+  https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232
+- Things I believe.   
+  https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b
+
+# 25-01-2020
+- Introducing Google Cloud’s Secret Manager.   
+  https://cloud.google.com/blog/products/identity-security/introducing-google-clouds-secret-manager
+- Streams and Monk – How Yelp is Approaching Kafka in 2020.   
+  https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html
+
+# 20-01-2020
+- Banning Facial Recognition Isn’t Enough (by Bruce Schneier).   
+  https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+- Why API responses should be signed.   
+  https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed/
+- Algebraic data types aren't numbers on steroids.   
+  https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/
+
+# 14-01-2020
+- The 'No Code' Delusion.   
+  https://www.alexhudson.com/2020/01/13/the-no-code-delusion/
+
+# 13-01-2020
+- Validated, staking on eth2: #1 - Incentives.   
+  https://blog.ethereum.org/2020/01/13/validated-staking-on-eth2-1-incentives/
+- Kotlin closed classes: how to compose with them.   
+  https://jelmini.dev/post/kotlin-closed-classes-how-to-compose-with-them/
+
+# 12-01-2020
+- Kafka Gotchas.   
+  https://itnext.io/kafka-gotchas-24b51cc8d44e
+- Goodbye, Clean Code.   
+  https://overreacted.io/goodbye-clean-code/
+- Learn to Love Your Legacy Code    
+  https://medium.com/97-things/learn-to-love-your-legacy-code-2a299f7c0899
+- A Bottom-Up View of Kotlin Coroutines.   
+  https://www.infoq.com/articles/kotlin-coroutines-bottom-up/
+
+# 10-01-2020
+- Introducing Tanka, Our Way of Deploying to Kubernetes.   
+  https://grafana.com/blog/2020/01/09/introducing-tanka-our-way-of-deploying-to-kubernetes/
+- Istio as an Example of When Not to Do Microservices.   
+  https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/
+- Custom Partitioner in Kafka: Let’s Take a Quick Tour!    
+  https://dzone.com/articles/custom-partitioner-in-kafka-lets-take-quick-tour
+- Should I introduce an API Gateway in my workplace?    
+  https://danlebrero.com/2020/01/08/do-i-need-a-gateway-api-team-dynamics/#content
+
+# 8-01-2020
+- A Guide to WebAuthn.   
+  https://webauthn.guide
+- Using Zeebe’s workflows instead of Sagas in Axon.   
+  https://medium.com/swlh/using-zeebes-workflows-instead-of-sagas-in-axon-d9ac1433b215
+
+# 5-01-2020
+- Can and should I deploy Apache Kafka at the edge? Should I just deploy Kafka in a 'real' data center or public cloud infrastructure?    
+  https://dzone.com/articles/apache-kafka-is-the-new-black-at-the-edge-in-iot-p
+- A beginner's guide to DeFi.   
+  https://nakamoto.com/beginners-guide-to-defi/
+- Lessons from Six Years as a Solo Consultant.   
+  https://www.embeddeduse.com/2019/06/26/lessons-from-six-years-as-a-solo-consultant/
+
+# 3-01-2020
+- Event Sourcing    
+  https://arkwright.github.io/event-sourcing.html
+
+# 2-01-2020
+- Who are you trying to impress with your deadlines?    
+  http://jatins.gitlab.io/me/why-deadline/
+- Scala tooling in 2019.   
+  https://geirsson.com/2019.html
+- Making state changes explicit with the State Monad.   
+  http://jorgecastillo.dev/state-monad
+- Conway's Game of Life using Kotlin and Arrow.   
+  https://www.47deg.com/blog/conway-kotlin/
+
+# 31-12-2019
+- Why Did We Shift Away From Database-Generated Ids?    
+  https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3
+- Auto increment keys vs. UUID.   
+  https://medium.com/@Mareks_082/auto-increment-keys-vs-uuid-a74d81f7476a
+- Command Query Separation versus server generated IDs    
+  https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/
+- Why Auto Increment Is A Terrible Idea.   
+  https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/
+- UUID or GUID as Primary Keys? Be Careful!    
+  https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439
+- Generating unique IDs in a distributed environment at high scale: distributed 64-bit unique ID generator
+  https://www.callicoder.com/distributed-unique-id-sequence-number-generator/
+
+# 30-12-2019
+- Project Valhalla: Fast and Furious Java.   
+  https://medium.com/javarevisited/project-valhalla-fast-and-furious-java-ce2e46b4ee59
+- Game of Thrones Series 8: Real Time Sentiment Scoring with Apache Kafka, KSQL, Google's Natural Language API and Python.   
+  https://www.rittmanmead.com/blog/2019/04/game-of-thrones-8-real-time-sentiment-scoring/amp/
+- CQRS — Command Query Responsibility Segregation: A Spring Boot and Axon Example.   
+  https://medium.com/swlh/cqrs-command-query-responsibility-segregation-72db08ee8282
+
+# 28-12-2019
+- In praise of property-based testing.   
+  https://increment.com/testing/in-praise-of-property-based-testing/
+- Why Scrum sucks.   
+  https://techbeacon.com/app-dev-testing/why-scrum-sucks?amp
+
+# 27-12-2019
+- An Opinionated Approach to Developing Event-Driven Microservice Applications with Kafka and Web-Sockets.   
+  Part 1: https://medium.com/codable/an-opinionated-approach-to-developing-event-driven-microservice-applications-with-kafka-and-eb643325dfd7.   
+  Part 2: https://medium.com/codable/an-opinionated-approach-to-developing-event-driven-microservice-applications-with-kafka-and-8018122e33a9.   
+  Part 3: https://medium.com/codable/an-opinionated-approach-to-developing-event-driven-microservice-applications-with-kafka-and-53eb02f0baa9.   
+  Part 4: https://medium.com/codable/an-opinionated-approach-to-developing-event-driven-microservice-applications-with-kafka-and-fc1967b767b6.   
+
+# 24-12-2019
+- Exploring ksqlDB with Twitter Data.   
+  https://www.confluent.io/blog/stream-processing-twitter-data-with-ksqldb/
+
+# 23-12-2019
+- Semantic Versioning Sucks! Long Live Semantic Versioning.   
+  https://developer.okta.com/blog/2019/12/16/semantic-versioning
+
+# 20-12-2019
+- A guide to Web Scraping without getting blocked in 2020.   
+  https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+- A Framework for First Principles Thinking.   
+  https://neilkakkar.com/A-framework-for-First-Principles-Thinking.html
+
+# 18-12-2019
+- Scala 2 roadmap update: The road to Scala 3.   
+  https://www.scala-lang.org/2019/12/18/road-to-scala-3.html
+- Testing Kafka Streams Using TestInputTopic and TestOutputTopic.   
+  https://www.confluent.io/blog/test-kafka-streams-with-topologytestdriver
+- Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala.   
+  https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787
+- DBLog: A Generic Change-Data-Capture Framework.   
+  https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b
+
+# 17-12-2019
+- Typesafe Error Handling in Kotlin.   
+  https://kotlin.christmas/2019/17
+- What’s New in Apache Kafka 2.4.   
+  https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
+
+# 14-12-2019
+- OAuth 2.1: How Many RFCs Does it Take to Change a Lightbulb?    
+  https://developer.okta.com/blog/2019/12/13/oauth-2-1-how-many-rfcs
+- Is the OAuth 2.0 Implicit Flow Dead?    
+  https://developer.okta.com/blog/2019/05/01/is-the-oauth-implicit-flow-dead     
+  See also [8-10-2019](#8-10-2019)
+
+# 13-12-2019
+- Building a Model-Driven Enterprise.   
+  https://code.tubitv.com/building-a-model-driven-enterprise-3f37efa9db94
+- The future of finance is self-driving money.   
+  https://venturegrit.substack.com/p/why-self-driving-money-is-more-important
+
+# 10-12-2019
+- Building and Deploying Your First Cloudflow Application, using Scala and Akka Streams    
+  https://medium.com/jeroen-rosenberg/building-and-deploying-your-first-cloudflow-application-6ea4b7157e6d
+- Tales from running Kafka Streams in Production.   
+  https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production
+
+# 1-12-2019
+- Uncovering Hidden Business Rules with DDD Aggregates.   
+  https://medium.com/nick-tune-tech-strategy-blog/uncovering-hidden-business-rules-with-ddd-aggregates-67fb02abc4b?
+- EventStorming Modelling Tips to Facilitate Microservice Design.   
+  https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc
+- Organisational Dysfunctions Mirrored as Architectural Complexity.   
+  https://medium.com/nick-tune-tech-strategy-blog/organisational-dysfunctions-mirrored-as-architectural-complexity-b5a903b3f5b2
+- Mapper Contexts & Supercontexts: Decoupling Domain-Specific and Domain-Generic Bounded Contexts.   
+  https://medium.com/nick-tune-tech-strategy-blog/mapper-contexts-supercontexts-decoupling-domain-specific-and-domain-generic-bounded-contexts-5eb6a1e7c5fc
+
+# 29-11-2019
+- Kafka Administration and Monitoring UI Tools. *Review of Kafka Tool, Kafka Manager, and Kafdrop.*    
+  https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
+
+# 28-11-2019
+- Introducing Scala Server Toolkit.   
+  https://engineering.avast.io/introducing-scala-server-toolkit/
+
+# 27-11-2019
+- Inefficient Efficiency: Latency/throughput tradeoffs, illustrated with coffee.   
+  https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791
+
+# 25-11-2019
+- The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology    
+  https://servicemesh.io.   
+- The downfall of the enterprise service bus    
+  https://threadreaderapp.com/thread/1131116454118612997.html
+- The Log: What every software engineer should know about real-time data's unifying abstraction    
+  https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
+# 24-11-2019
+- Digital Video: A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).   
+  https://github.com/leandromoreira/digital_video_introduction/blob/master/README.md
+- A Cashless Future Is A Dystopia.   
+  https://rhythmofbitcoin.substack.com/p/a-cashless-future-is-a-dystopia-without
+
+# 22-11-2019
+- Bits On the Wire.   
+  https://www.tbray.org/ongoing/When/201x/2019/11/17/Bits-On-the-Wire
+
+# 21-11-2019
+- How does non-blocking IO work under the hood?    
+  https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74
+
+# 19-11-2019
+- Kotlin’s Assert Is Not Like Java’s Assert.   
+  https://publicobject.com/2019/11/18/kotlins-assert-is-not-like-javas-assert/
+- Setting up a Haskell environment.   
+  https://www.47deg.com/blog/setting-up-haskell/
+
+# 17-11-2019
+- Decisions, Decisions or Why Baskets of Options Dominate    
+  https://medium.com/@kentbeck_7670/decisions-decisions-or-why-baskets-of-options-dominate-9ac63658b593
+
+# 12-11-2019
+- A Guide to Scala 3.   
+  https://medium.com/heavenlyx/a-guide-to-scala-3-8a3bad7eee71
+- Taking too much slack out of the rubber band.   
+  http://rachelbythebay.com/w/2019/11/10/scale/
+- Performance Comparison Between Apache Pulsar and Kafka: Latency.   
+  https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407
+
+# 10-11-2019
+- Audio Processing for Dummies: implementing a [noise gate](https://en.wikipedia.org/wiki/Noise_gate)    
+  http://adventures.michaelfbryan.com/posts/audio-processing-for-dummies/
+
+# 9-11-2019
+- Time Series Prediction - A short introduction for pragmatists.   
+  https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices 
+
+# 8-11-2019
+- Parse, don’t validate.   
+  https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+- How to Use Single Message Transforms in Kafka Connect.   
+  https://www.confluent.io/blog/kafka-connect-single-message-transformation-tutorial-with-examples/
+
+# 5-11-2019
+- sttp — an open-source library with simple, type-safe API for defining HTTP requests.   
+  https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762
+- Java switch - 4 wrongs don't make a right.   
+  https://blog.joda.org/2019/11/java-switch-4-wrongs-dont-make-right.html
+- When do you need Akka Cluster?    
+  https://blog.softwaremill.com/when-do-you-need-akka-cluster-5885d43e901b
+
+# 31-10-2019
+- Why should we use Design Level Event Storming for DDD?    
+  https://philippe.bourgau.net/why-should-we-use-design-level-event-storming-for-ddd/
+- Detailed agenda for a DDD Design-Level Event Storming - part 1.   
+  https://philippe.bourgau.net/detailed-agenda-for-a-ddd-design-level-event-storming-part-1/
+- Detailed agenda for a DDD Design-Level Event Storming - part 2.   
+  https://philippe.bourgau.net/detailed-agenda-for-a-ddd-design-level-event-storming-part-2/
+- The Smallest MIDI Synth.   
+  https://mitxela.com/projects/flash_synth
+
+# 27-10-2019
+- Implementing the Outbox Pattern.   
+  https://dzone.com/articles/implementing-the-outbox-pattern
+
+# 23-10-2019
+- An Illustrated Guide to OAuth and OpenID Connect.   
+  https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+- Why We Don’t See Many Public GraphQL APIs.   
+  https://medium.com/@__xuorig__/why-we-dont-see-many-public-graphql-apis-ad972bcb201e
+- Careful about the GraphQL Burger.   
+  https://medium.com/@__xuorig__/careful-about-the-graphql-burger-54e4b8917d6a
+- EventStorming Modelling Tips to Facilitate Microservice Design.   
+  https://medium.com/skills-matter/eventstorming-modelling-tips-to-facilitate-microservice-design-38e99b8c96ff
+
+# 20-10-2019
+- A First Look at Java Inline Classes.   
+  https://www.infoq.com/articles/inline-classes-java/
+- Why Nutanix Beam went ahead with Apache Pulsar instead of Apache Kafka?    
+  https://medium.com/@yuvarajl/why-nutanix-beam-went-ahead-with-apache-pulsar-instead-of-apache-kafka-1415f592dbbb
+
+# 17-10-2019
+- Books, an immutable double-entry accounting database service.   
+  https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/
+- Is GraphQL Still Relevant in an HTTP2 World?    
+  https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+- Firefox Privacy – The Complete How-To Guide.   
+  https://restoreprivacy.com/firefox-privacy/
+- GCP Cloud Functions with Scala.js in 10 lines(ish)    
+  https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions
+
+# 14-10-2019
+- Don't Put Fat Jars in Docker Images.   
+  https://phauer.com/2019/no-fat-jar-in-docker-image/
+- How Multiplexing Changes Your HTTP APIs.   
+  https://www.mnot.net/blog/2019/10/13/h2_api_multiplexing
+
+# 11-10-2019
+- Migrating Apache Flume Flows to Apache NiFi: Kafka Source to Multiple Sinks.   
+  https://dzone.com/articles/migrating-apache-flume-flows-to-apache-nifi-kafka
+
+# 10-10-2019
+- Building a Real-Time, Event-Driven Stock Platform at Euronext.   
+  https://www.confluent.io/blog/euronext-apache-kafka-use-case-with-confluent-platform
+
+# 8-10-2019
+- Building Audit Logs with Change Data Capture and Stream Processing.   
+  https://debezium.io/blog/2019/10/01/audit-logs-with-change-data-capture-and-stream-processing/
+- Implement the OAuth 2.0 Authorization Code with PKCE Flow.   
+  https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce
+
+# 6-10-2019
+- Sense and Nonsense in Event Thinking and Microservices.   
+  https://www.infoq.com/news/2019/10/event-thinking-microservices/
+- Defining Bounded Contexts — Eric Evans at DDD Europe.   
+  https://www.infoq.com/news/2019/06/bounded-context-eric-evans/
+
+# 4-10-2019
+- Why we decided to go for the Big Rewrite.   
+  https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html
+- SQL queries don't start with SELECT.   
+  https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/
+
+# 2-10-2019
+- Modern Best Practices for Testing in Java.   
+  https://phauer.com/2019/modern-best-practices-testing-java/
+- Best Practices for Unit Testing in Kotlin.   
+  https://phauer.com/2018/best-practices-unit-testing-kotlin/
+- Kafka Transforming Into ‘Event Streaming Database’.   
+  https://www.datanami.com/2019/10/01/kafka-transforming-into-event-streaming-database/
+
+# 30-09-2019
+- The DNSSEC Root Signing Ceremony.   
+  https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/
+- Structured Concurrency Anniversary.   
+  https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401
+
+# 28-09-2019
+- GraphQL & Caching: The Elephant in the Room.   
+  https://apisyouwonthate.com/blog/graphql-and-caching-the-elephant-in-the-room
+- Every Company is Becoming ~~a~~ Software ~~Company~~ .   
+  https://www.confluent.io/blog/every-company-is-becoming-software
+
+# 26-09-2019
+- HTTP/3: the past, the present, and the future    
+  https://blog.cloudflare.com/http3-the-past-present-and-future/
+- The Technical Challenges of Building Cloudflare WARP.   
+  https://blog.cloudflare.com/warp-technical-challenges/
+
+# 24-09-2019
+- Comparing Database Types: How Database Types Evolved to Meet Different Needs    
+  https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
+- Evolving Regional Evacuation.   
+  https://medium.com/netflix-techblog/evolving-regional-evacuation-69e6cc1d24c6
+
+# 23-09-2019
+- Who Cares About Functional Programming?    
+  https://thomasbandt.com/who-cares-about-functional-programming
+- Building a relational database using Kafka.   
+  https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/
+  
+# 20-09-2019
+- Reflections on Event Streaming as Confluent Turns Five – Part 1.   
+  https://www.confluent.io/blog/event-streaming-reflections-as-confluent-turns-five-part-1
+- Reflections on Event Streaming as Confluent Turns Five – Part 2.   
+  https://www.confluent.io/blog/event-streaming-reflections-as-confluent-turns-five-part-2
+- Using Graph Processing for Kafka Stream Visualizations.   
+  https://www.confluent.io/blog/kafka-graph-visualizations
+
+# 19-09-2019
+- Maybe Don't Write That Test: some thoughts on the cost of automated testing.   
+  https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/
+- Differences between gRPC and RSocket.   
+  https://medium.com/netifi/differences-between-grpc-and-rsocket-e736c954e60
+- The Road to the Reactive Foundation — And Where We Go from Here.   
+  https://medium.com/netifi/the-road-to-the-reactive-foundation-and-where-we-go-from-here-86ed2adbf626
+- The Reactive Foundation.   
+  https://reactive.foundation/
+- Kubernetes Users — Stop the Meshes! Try RSocket    
+  https://medium.com/netifi/kubernetes-users-stop-the-meshes-try-rsocket-2300baf50a73
+
+# 15-09-2019
+- A look inside Kafka Mirrormaker 2.   
+  https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/
+
+# 11-09-2019
+- Tour of Akka Typed: Protocols and Behaviors.   
+  https://manuel.bernhardt.io/2019/07/11/tour-of-akka-typed-protocols-and-behaviors/
+- Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery.   
+  https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/
+- Tour of Akka Typed: supervision and signals
+  https://manuel.bernhardt.io/2019/09/05/tour-of-akka-typed-supervision-and-signals/
+- Make your program testable.   
+  https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf
+
+# 8-09-2019
+- Introducing Derivative Event Sourcing.   
+  https://www.confluent.io/blog/event-sourcing-vs-derivative-event-sourcing-explained
+- Building Transactional Systems Using Apache Kafka.   
+  https://www.confluent.io/blog/transactional-systems-with-apache-kafka
+- How to Use Schema Registry and Avro in Spring Boot Applications.   
+  https://www.confluent.io/blog/schema-registry-avro-in-spring-boot-application-tutorial
+
+# 7-09-2019
+- Developers don't understand CORS.   
+  https://fosterelli.co/developers-dont-understand-cors
+- Dear Agile, I’m Tired of Pretending    
+  https://medium.com/columbus-egg/dear-agile-im-tired-of-pretending-d39ab6a12003 & https://news.ycombinator.com/item?id=20325096
+- Can We Stop Doing ETL Yet?    
+  https://www.datanami.com/2019/09/03/can-we-stop-doing-etl-yet/
+
+# 2-09-2019
+[CloudState](https://cloudstate.io): towards Serverless 2.0.     
+
+- Why CloudState?    
+  https://github.com/cloudstateio/cloudstate/blob/master/README.md#why-cloudstate
+- High level concepts    
+  https://cloudstate.io/docs/user/features/   
+- Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.    
+  https://www.youtube.com/watch?v=J3PyYmdTsnQ
+- Stateful Serverless with CloudState.io: live-coding screencast.   
+  https://www.youtube.com/watch?v=rEZG-Vf0qJI
+
+# 1-09-2019
+- Monitoring in the time of Cloud Native.   
+  https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e
+- The Forgotten History of OOP.   
+  https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+
+# 28-08-2019
+- Does Kafka really guarantee the order of messages?    
+  https://blog.softwaremill.com/does-kafka-really-guarantee-the-order-of-messages-3ca849fd19d2
+- Programmer Test Principles.   
+  https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934
+
 # 25-08-2019
 - Software Architecture Guide.   
   https://martinfowler.com/architecture/  & https://news.ycombinator.com/item?id=20786448
@@ -19,7 +888,7 @@ I'm reading mostly about Kotlin, Kafka, Scala, Java, Big Data Engineering, DDD, 
 # 24-08-2019
 - Correctness Anomalies Under Serializable Isolation.   
   https://dbmsmusings.blogspot.com/2019/06/correctness-anomalies-under.html
-- Overview of Consistency Levels in Database Systems
+- Overview of Consistency Levels in Database Systems.   
   https://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html
 - 10 Key Learnings in Rust after 30,000 Lines of Code.   
   https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
@@ -152,7 +1021,7 @@ Four examples implemented:
 - Change Data Capture with Debezium ft. Gunnar Morling    
   https://www.buzzsprout.com/186154/1365043-change-data-capture-with-debezium-ft-gunnar-morling
 
-# 03-07-2019
+# 3-07-2019
 - 7 Reasons We Choose Apache Pulsar Over Apache Kafka: comparison Kafka - Pulsar.   
   https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/
 
@@ -196,6 +1065,8 @@ Four examples implemented:
   https://eng.lyft.com/announcing-envoy-mobile-5c2067d9ade0
 - CSV vs Parquet vs Avro: Choosing the Right Tool for the Right Job.   
   https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8
+- Big Data File Formats Demystified    
+  https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/
 
 # 17-06-2019
 - Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.   
@@ -235,31 +1106,31 @@ Four examples implemented:
 - Abstracting Kotlin Sealed Classes.   
   https://arturdryomov.online/posts/abstracting-kotlin-sealed-classes/
   
-# 09-06-2019
+# 9-06-2019
 - Reactive Streams and Kotlin Flows.   
   https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4
 - Reactive Streams 1.0.0 interview (°2015).   
   https://medium.com/@viktorklang/reactive-streams-1-0-0-interview-faaca2c00bec
 
-# 08-06-2019
+# 8-06-2019
 - Schema Registry Made Simple by Confluent Cloud ft. Magesh Nandakumar.   
   https://www.buzzsprout.com/186154/1220195-schema-registry-made-simple-by-confluent-cloud-ft-magesh-nandakumar
 
-# 07-06-2019
+# 7-06-2019
 - Testing Kafka Streams Applications with Viktor Gamov.   
   Various approaches to testing Kafka Streams applications: KafkaEmbedded, TopologyTestDriver, Mocked Streams, Mockafka & using TestContainers.   
   https://www.buzzsprout.com/186154/1158407-testing-kafka-streams-applications-with-viktor-gamov
 
-# 06-06-2019
+# 6-06-2019
 - A DIY Guide to Kafka Connectors.   
   https://medium.com/enfuse-io/a-diy-guide-to-kafka-connectors-38ad7cd82e02
 
-# 05-06-2019
+# 5-06-2019
 - Log Compacted Topics in Apache Kafka.   
   How does Kafka internally keep the state of compacted topics in the file system?    
   https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
-# 04-06-2019
+# 4-06-2019
 - Observations on Observability.   
   https://blog.colinbreck.com/observations-on-observability/
 - Domain-Oriented Observability.   
@@ -274,7 +1145,7 @@ Four examples implemented:
 - Immutable Conversations - Inside Arrow Fx & Arrow Optics.   
   https://www.youtube.com/watch?v=4eZFUpLiX00
 
-# 03-06-2019
+# 3-06-2019
 - Execution context of Kotlin Flows.   
   https://medium.com/@elizarov/execution-context-of-kotlin-flows-b8c151c9309b
 - How to set up a serious Kubernetes terminal.   
@@ -282,7 +1153,7 @@ Four examples implemented:
 - Deduplication at Scale: Dedupe Ingested Events Data at Scale using [Bloom Filters](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff).   
   https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9
 
-# 02-06-2019
+# 2-06-2019
 - Spring for Apache Kafka Deep Dive:    
 	- Spring for Apache Kafka Deep Dive – Part 1: Error Handling, Message Conversion and Transaction Support.   
   	https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-1-error-handling-message-conversion-transaction-support
@@ -293,7 +1164,7 @@ Four examples implemented:
 - Spring Boot + Kafka: The New Enterprise Platform by James Watters, Pivotal (Kafka Summit 2019 Keynote).   
   https://www.youtube.com/watch?v=9I3CDfHKfNY
 
-# 01-06-2019
+# 1-06-2019
 - The Coming Software Apocalypse.   
   *“The software did exactly what it was told to do. The reason it failed is that it was told to do the wrong thing.“*.   
   *“Software engineers don’t understand the problem they’re trying to solve, and don’t care to.”*
